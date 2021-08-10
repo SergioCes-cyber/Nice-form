@@ -1,0 +1,20 @@
+ul,li{
+  font-size: 20px;
+  
+}
+
+a{
+    color: grey;
+}
+
+a:hover{
+    color: yellow;
+}
+
+.banner{
+    background-image: url('../img//fl.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+}
